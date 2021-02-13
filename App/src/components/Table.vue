@@ -1,7 +1,7 @@
 <template>     
         <div class="container">
            <!-- <input class="searchbox" type="text" v-model="search" placeholder="Search Name"> -->
-           <b-button class="button-align" href="http://127.0.0.1:8000/getCsv/">Download</b-button> 
+           <!-- <b-button class="button-align" href="http://127.0.0.1:8000/getCsv/">Download</b-button>  -->
             <div class="table-responsive">
                 <div class="align">
                 <table class="table table-bordered table-striped" id="tracerouteTable">
