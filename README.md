@@ -20,7 +20,7 @@ Installation-
             
             : pip install django-cors-headers
             
-            : python manage.py runserver (run api application )
+       
             
    
    Application -
@@ -29,10 +29,26 @@ Installation-
 
             : Install 'npm install -g @vue/cli'
             
-            : npm run serve ( run application )
+            
             
  
+ Technology Stack - 
  
+            : VueJs , Python, Django
+            
+ What can be improved or added -
+ 
+           : We can add a sync button on index page to get data while using first time
+           
+           : We can add a download option to download data as CSV file
+           
+           : we can add pagination option 
+           
+ Run application - 
+ 
+       Api - python manage.py runserver
+       
+       Application - npm run serve
             
    
             
