@@ -2,6 +2,8 @@ Project Title-
    
    Application to display upto-date equity data
    
+   
+   
 Installation-
 
   Api - 
