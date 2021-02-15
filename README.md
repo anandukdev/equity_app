@@ -8,6 +8,10 @@ Installation-
 
   Api - 
    
+            : sudo apt-get install python3
+            
+            :sudo apt install python3-django
+            
             : virtualenv project-env
             
             : source project-env/bin/activate
@@ -27,7 +31,9 @@ Installation-
                 
             : npm install
 
-            : Install 'npm install -g @vue/cli'
+            : npm install -g @vue/cli
+            
+            : npm run dev
             
             
             
