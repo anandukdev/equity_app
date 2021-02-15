@@ -10,7 +10,9 @@ Installation-
    
             : sudo apt-get install python3
             
-            :sudo apt install python3-django
+            : sudo apt install python3-django
+            
+            : sudo apt install python3-virtualenv
             
             : virtualenv project-env
             
