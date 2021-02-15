@@ -58,6 +58,8 @@ Installation-
  
        Api - python manage.py runserver
        
+       After run the Api side, then run Application side
+       
        Application - npm run serve
             
    
